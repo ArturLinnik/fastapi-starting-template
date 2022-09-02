@@ -1,0 +1,17 @@
+# fastapi
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# database
+sqlalchemy
+sqlalchemy_utils
+pymysql
+psycopg2-binary
+
+# migrations
+alembic
+
+# formatter
+black
